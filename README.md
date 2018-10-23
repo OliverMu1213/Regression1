@@ -1,1 +1,1 @@
-# Regression1
+The objective of this group project is to import the csv file into Java ArrayList, and conver the elements from the ArrayList on a Cartisian graph(including X(horizontal) and Y(vertical) coordinates) with GUI library. 
