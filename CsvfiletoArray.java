@@ -62,11 +62,7 @@ public class CsvfiletoArray {
 
             Ylist[i] = ysum.get(i);
         }
-        LinearRegression a = new LinearRegression(Xlist,Ylist);
-        System.out.println(a.toString());
-
-        PolynomialRegression b = new PolynomialRegression(Xlist,Ylist,2,"x");
-        System.out.println(b.toString());
+        
 
 
     }
